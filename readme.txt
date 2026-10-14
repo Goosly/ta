@@ -6,9 +6,10 @@ Selecteer Maven
 > clean + compile + assembly:single
 > Run
 Versie in "Target" kopiëren
+(Zelf eens testen)
 
 Plakken in dit project - assets
 In index.html: vervang de versie nummers (niet onderaan!)
 Release notes aanvullen
 
-git commit, push
+git add, commit, push
